@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-Eclipse-demo/static/css/main.df69c64f.chunk.css",
+    "main.js": "/test-Eclipse-demo/static/js/main.9a6cbc54.chunk.js",
+    "main.js.map": "/test-Eclipse-demo/static/js/main.9a6cbc54.chunk.js.map",
+    "runtime-main.js": "/test-Eclipse-demo/static/js/runtime-main.1658d3d3.js",
+    "runtime-main.js.map": "/test-Eclipse-demo/static/js/runtime-main.1658d3d3.js.map",
+    "static/js/2.735a8de1.chunk.js": "/test-Eclipse-demo/static/js/2.735a8de1.chunk.js",
+    "static/js/2.735a8de1.chunk.js.map": "/test-Eclipse-demo/static/js/2.735a8de1.chunk.js.map",
+    "index.html": "/test-Eclipse-demo/index.html",
+    "precache-manifest.2fade670ab4f417284457cd847b13175.js": "/test-Eclipse-demo/precache-manifest.2fade670ab4f417284457cd847b13175.js",
+    "service-worker.js": "/test-Eclipse-demo/service-worker.js",
+    "static/css/main.df69c64f.chunk.css.map": "/test-Eclipse-demo/static/css/main.df69c64f.chunk.css.map",
+    "static/js/2.735a8de1.chunk.js.LICENSE.txt": "/test-Eclipse-demo/static/js/2.735a8de1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1658d3d3.js",
+    "static/js/2.735a8de1.chunk.js",
+    "static/css/main.df69c64f.chunk.css",
+    "static/js/main.9a6cbc54.chunk.js"
+  ]
+}
